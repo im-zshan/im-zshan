@@ -1,4 +1,4 @@
-<h1 align='center'> 👋 Hey Everyone, I'm Zeeshan Chowdhary</h1>
+<h1 align='center'>Hey there! 👋🏼 I'm Zeeshan Chowdhary</h1>
 <p align='center'> شان </p>
 <p align='center'>
   <a href='https://www.linkedin.com/in/zeeshan-sharif'><img src='https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
