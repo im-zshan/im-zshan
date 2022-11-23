@@ -75,5 +75,5 @@
 
 
 <h3 align="left"> My Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-zshan&show_icons=true&count_private=true&theme=dark" alt="im-zshan" width = 450 />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-zshan&show_icons=true&count_private=true&theme=dark" alt="im-zshan" width = 450 /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-zshan&show_icons=true&count_private=true&theme=dark" alt="im-zshan" width = 425 />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-zshan&show_icons=true&count_private=true&theme=dark" alt="im-zshan" width = 425 /></p>
