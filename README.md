@@ -1,9 +1,15 @@
-<h1 align='center'>Hey there! 👋🏼 I'm Zeeshan Chowdhary</h1>
-<p align='center'> شان </p>
+<h1 align='center'>Hey there! 👋🏼 I'm Zeeshan Chowdhary { شان } </h1>
+<h3 align="center">A Computer Science (B.Tech) Undergraduate from National Institute Of Technology Srinagar, India </h3> 
+<br />
+<p align='center'>
+<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
+</br> </p>
+
 <p align='center'>
   <a href='https://www.linkedin.com/in/zeeshan-sharif'><img src='https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   &nbsp;&nbsp;&nbsp;
   <a href='mailto:zeeshanchowdhary786@gmail.com'><img src='https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white'/></a>
+  
   &nbsp;&nbsp;&nbsp;
 
 <hr>
@@ -12,9 +18,9 @@
 <p align='center'>
   <a href='#'><img src='https://img.shields.io/badge/C-00457C?style=for-the-badge&logo=c&logoColor=white'/></a>
   <a href='#'><img src='https://img.shields.io/badge/C++-00457C?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a>
-  <a href='#'><img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/></a>
+  <a href='#'><img src='https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white'/></a>
   <a href='#'><img src='https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=python&logoColor=white'/></a>
-  <a href='#'><img src='https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/></a>
+  <a href='#'><img src='https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 </p>
 
 <hr>
@@ -80,5 +86,8 @@
 <!--   <a href='#'><img src='https://img.shields.io/badge/Robots-blue?style=flat-square'/></a> -->
 <!--   <a href='#'><img src='https://img.shields.io/badge/Drones-blue?style=flat-square'/></a> -->
 </p>
-
 <hr>
+
+<h3 align="left"> My Github Stats:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-zshan&show_icons=true&count_private=true&theme=dark" alt="subeshb1" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-zshan&show_icons=true&count_private=true&theme=dark" alt="subeshb1" /></p>
