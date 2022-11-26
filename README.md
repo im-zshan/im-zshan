@@ -10,10 +10,9 @@
 <a href="https://twitter.com/im_zshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_zshan" height="30" width="40" /></a>
 <a href="https://instagram.com/i_m_zshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_zshan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zeeshan-sharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="im_zshan" height="30" width="40" /></a>
+<a href="https://t.me/im_zshan" target="blank"><img align="center" alt="Zeeshan Chowdhary | Telegram" width="32px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/telegram.png" /></a>
 <a href="https://stackoverflow.com/users/20585964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20585964" height="30" width="40" /></a>
-  
-  <a href='mailto:zeeshanchowdhary786@gmail.com'><img src='https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white'/></a>
-  <a href="https://t.me/im_zshan" target="_blank"><img src="https://img.shields.io/badge/telegram-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href='mailto:zeeshanchowdhary786@gmail.com'><img align="center" src='https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 </p>
 
 
