@@ -22,26 +22,26 @@
   <a href='#'><img src='https://img.shields.io/badge/C++-00457C?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a>
   <a href='#'><img src='https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white'/></a>
   <a href='#'><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-  <a href='#'><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<!--   <a href='#'><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a> -->
   <a href='#'><img src='https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white'/></a>
 </p>
 
 
 <h3 align='left'>Complementary Languages</h3>
 <p align='left'>
-  <a href='#'><img src='https://img.shields.io/badge/MicroPython-%232B2728?style=for-the-badge&logo=micropython&logoColor=white'/></a>
+<!--   <a href='#'><img src='https://img.shields.io/badge/MicroPython-%232B2728?style=for-the-badge&logo=micropython&logoColor=white'/></a> -->
   <a href='#'><img src='https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a>
   <a href='#'><img src='https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a>
   <a href='#'><img src='https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white'/></a>
 </p>
 
 
-<h3 align='left'>Frameworks</h3>
-<p align='left'>
+<!-- <h3 align='left'>Frameworks</h3>
+ <p align='left'>
   <a href='#'><img src='https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white'/></a>
   <a href='#'><img src='https://img.shields.io/badge/Fast API-%23009688?style=for-the-badge&logo=fastapi&logoColor=white'/></a>
   <a href='#'><img src='https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white'/></a>
-</p>
+</p> -->
 
 
 <h3 align='left'>Text Editors/IDEs I Use</h3>
