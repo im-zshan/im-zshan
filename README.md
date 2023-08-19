@@ -1,5 +1,5 @@
 <h1 align='center'>Hey there! 👋🏼 I'm Zeeshan Chowdhary { شان } </h1>
-<h3 align="center">Pursuing my bachelor's in Information Technology & Engineering from National Institute of Technology - Srinagar, India </h3> 
+<h3 align="center">Pursuing bachelor's in Information Technology & Engineering from National Institute of Technology - Srinagar, India </h3> 
 <br />
 <p align='center'>
 <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
